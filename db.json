@@ -1,3 +1,9 @@
 {
-  "todos":[]
+  "todos":[
+    {
+      "title": "Learn React",
+      "status": false,
+      "id": "eed59e5a-ce17-4517-a326-b63e8c7554d9"
+    }
+  ]
 }
