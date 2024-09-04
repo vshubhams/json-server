@@ -1,5 +1,5 @@
 {
-  "todos":[
+  "todos": [
     {
       "title": "Learn JavaScript",
       "status": false,
@@ -1635,5 +1635,43 @@
         }
       ]
     }
-  ]
+  ],
+  "properties": {
+    "success": true,
+    "data": [
+      {
+        "type": "save-variables",
+        "form": "formId",
+        "submissionData": {
+          "repeat": [
+            {
+              "code": "1H349D034",
+              "address": "102 Baker Street, London, NW1 6XE, United Kingdom - 2048123456",
+              "Clause": [
+                {
+                  "title": "Clause title",
+                  "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                }
+              ]
+            },
+            {
+              "code": "2H349D034",
+              "address": "789 Solar Drive, San Francisco, 94103, United States - 5552398475"
+            },
+            {
+              "code": "3H349D034",
+              "address": "45A Hauptstrasse, Berlin, 10115, Germany - 3025671234",
+              "Clause": [
+                {
+                  "title": "Clause title",
+                  "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                }
+              ]
+            }
+          ]
+        },
+        "nextActions": []
+      }
+    ]
+  }
 }
