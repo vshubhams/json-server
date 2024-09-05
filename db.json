@@ -1687,30 +1687,50 @@
         "submissionData": {
           "coverages": [
             {
-              "code": "1H349D034",
-              "address": "102 Baker Street, London, NW1 6XE, United Kingdom - 2048123456",
-              "clauses": [
+              "address": "12 Orchard Drive Edgware HA87SD United Kingdom",
+              "code": "HA87SD#12",
+              "premium": "€2,101.56",
+              "covers": [
                 {
-                  "title": "Clause title 1",
-                  "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                  "name": "Buildings",
+                  "totalPremium": "€846.53",
+                  "insuredValue": "€1,000,000.00",
+                  "excess": "€150,000.00",
+                  "clauses": [
+                    {
+                      "title": "Clause title 1",
+                      "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                    }
+                  ]
                 }
               ]
             },
             {
-              "code": "2H349D034",
-              "address": "789 Solar Drive, San Francisco, 94103, United States - 5552398475"
-            },
-            {
-              "code": "3H349D034",
-              "address": "45A Hauptstrasse, Berlin, 10115, Germany - 3025671234",
-              "clauses": [
+              "address": "123 Richardshaw Lane Pudsey LS286BN United Kingdom",
+              "code": "LS286BN#123",
+              "premium": "€2,101.56",
+              "covers": [
                 {
-                  "title": "Clause title 1",
-                  "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                  "name": "Buildings",
+                  "totalPremium": "€846.53",
+                  "insuredValue": "€1,000,000.00",
+                  "excess": "€150,000.00",
+                  "clauses": [
+                    {
+                      "title": "Clause title 1",
+                      "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                    },
+                    {
+                      "title": "Clause title 2",
+                      "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                    }
+                  ]
                 },
                 {
-                  "title": "Clause title 2",
-                  "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                  "name": "Electronic equipment failure",
+                  "totalPremium": "€1,255.03",
+                  "insuredValue": "€2,000,000.00",
+                  "excess": "€300,000.00"
                 }
               ]
             }
